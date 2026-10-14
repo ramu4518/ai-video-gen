@@ -1,0 +1,36 @@
+# Python virtual environment
+backend/venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment variables / API keys
+.env
+*.env
+backend/.env
+
+# Node.js
+frontend/node_modules/
+
+# Build files
+frontend/dist/
+
+# Generated video/audio output
+output/
+*.mp4
+*.mp3
+*.wav
+
+# Temporary files
+*.tmp
+*.temp
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db

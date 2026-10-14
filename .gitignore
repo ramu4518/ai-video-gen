@@ -1,0 +1,41 @@
+# Python virtual environment
+backend/venv/
+backend/.venv-sadtalker/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment variables / API keys
+.env
+*.env
+backend/.env
+
+# Node.js
+frontend/node_modules/
+
+# Frontend build
+frontend/dist/
+
+# Generated output
+/output/
+*.mp4
+*.mp3
+*.wav
+
+# Downloaded SadTalker model weights and generated results
+backend/models/SadTalker/checkpoints/
+backend/models/SadTalker/results/
+
+# Temporary files
+*.tmp
+*.temp
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db

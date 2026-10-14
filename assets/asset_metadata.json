@@ -1,0 +1,20 @@
+{
+  "avatars": {
+    "Farmer": "avatars/farmer.jpg",
+    "Doctor": "avatars/doctor.jpg",
+    "Student": "avatars/student.jpg",
+    "Businessman": "avatars/businessman.jpg",
+    "Teacher": "avatars/teacher.jpg"
+  },
+  "backgrounds": {
+    "Village": "backgrounds/village.jpg",
+    "Farm": "backgrounds/farm.jpg",
+    "Hospital": "backgrounds/hospital.jpg",
+    "School": "backgrounds/school.jpg",
+    "Office": "backgrounds/office.jpg",
+    "City": "backgrounds/city.jpg"
+  },
+  "props": {
+    "Water Pot": "props/water_pot.jpg"
+  }
+}
